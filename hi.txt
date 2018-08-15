@@ -1,6 +1,7 @@
 hiiiiiiiiiii
 heeyyyyyyyyy
 hoooooooiiii
+<<<<<<< HEAD
 
 
 
@@ -12,3 +13,7 @@ hoooooooiiii
 3
 4
 
+=======
+123
+233
+>>>>>>> test
